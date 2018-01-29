@@ -1,0 +1,6 @@
+/.idea/vcs.xml
+/uploads
+/static
+.DS_Store
+__pycache__
+/.idea/workspace.xml
